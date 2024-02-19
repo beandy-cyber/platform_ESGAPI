@@ -1,6 +1,6 @@
 # Documentação da API
 ## Configuração Inicial
-Certifique-se de ter o Node.js instalado. Se não tiver, você pode baixá-lo em nodejs.org.
+Certifique-se de ter o Node.js instalado. Se não tiver, você pode baixá-lo em [nodejs.org](nodejs.org).
 
 ### Instalação de dependências
 Execute o seguinte comando para instalar as dependências necessárias:
